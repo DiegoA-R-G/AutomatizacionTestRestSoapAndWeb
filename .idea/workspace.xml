@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="Quitar feature agregarfavoritos">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/driver/msedgedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/agregar_favorito.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="Agregar favorito" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705435881988</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Agregar favorito">
+      <option name="closed" value="true" />
+      <created>1705438201454</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705438201454</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Agregar favorito">
+      <option name="closed" value="true" />
+      <created>1705438222267</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705438222267</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,6 +294,7 @@
     <MESSAGE value="Tag RunnerTest" />
     <MESSAGE value="Dejar solo un runner" />
     <MESSAGE value="Quitar feature agregarfavoritos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quitar feature agregarfavoritos" />
+    <MESSAGE value="Agregar favorito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregar favorito" />
   </component>
 </project>
