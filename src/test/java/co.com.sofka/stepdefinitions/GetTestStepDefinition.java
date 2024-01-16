@@ -16,7 +16,6 @@ import static org.hamcrest.CoreMatchers.containsString;
 
 public class GetTestStepDefinition extends SetupApis {
 
-
     @Given("que el usuario quiera crear su cuenta en req res")
     public void queElUsuarioQuieraCrearSuCuentaEnReqRes() {
         actorCallAnAPi("https://reqres.in/api");

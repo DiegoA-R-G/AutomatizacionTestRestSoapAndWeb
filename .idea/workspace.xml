@@ -5,49 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bab240bec9d8e814ddbff503cbe10065218bf765" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca9454254bd70feaec92adc8d38b6f2d91a3967a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/a/bab240bec9d8e814ddbff503cbe10065218bf765" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/a/ca9454254bd70feaec92adc8d38b6f2d91a3967a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/questions/ResponsePost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/AcceptCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/GoToMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/OpenPageInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/ScrollToElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/ui/PageInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/ui/SelectMovie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/Setup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/SetupApis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/FormRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/PostRunnerTestReqRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/FavoritoStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetTestStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/RegistrarseRequestPost.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/agregar_favorito.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/Suma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/GetSoapRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetSoapTestStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SumarRequestSoap.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetTestStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetTestStepDefinition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -116,6 +91,7 @@
     "Gradle.FavoritosRunnerTest.executor": "Run",
     "Gradle.FormRunnerTest.executor": "Run",
     "JUnit.FormRunnerTest.executor": "Run",
+    "JUnit.GetSoapRunnerTest.executor": "Run",
     "JUnit.PostRunnerTestReqRes.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -125,6 +101,9 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/ProyectosJAVA/AutomatizacionTestin/src/test/resources/features",
     "onboarding.tips.debug.path": "C:/ProyectosJAVA/AutomatizacionTestin/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
@@ -147,7 +126,7 @@
       <recent name="co.com.sofka.stepdefinitions" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PostRunnerTestReqRes">
+  <component name="RunManager" selected="JUnit.GetSoapRunnerTest">
     <configuration name="AutomatizacionTestin [clearReports]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -211,6 +190,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GetSoapRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomatizacionTestin.test" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.sofka.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="co.com.sofka.runners" />
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.runners.GetSoapRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PostRunnerTestReqRes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AutomatizacionTestin.test" />
       <shortenClasspath name="ARGS_FILE" />
@@ -237,6 +232,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GetSoapRunnerTest" />
         <item itemvalue="JUnit.PostRunnerTestReqRes" />
         <item itemvalue="JUnit.FormRunnerTest" />
         <item itemvalue="Gradle.AutomatizacionTestin [clearReports]" />
