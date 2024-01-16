@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/newsofka/tasks/Suma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/GetSoapRunnerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetSoapTestStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/SumarRequestSoap.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+    <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="Tag RunnerTest">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca9454254bd70feaec92adc8d38b6f2d91a3967a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca9454254bd70feaec92adc8d38b6f2d91a3967a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetTestStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/stepdefinitions/GetTestStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/FormRunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/FormRunnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/GetSoapRunnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/PostRunnerTestReqRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
@@ -96,6 +97,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -104,7 +106,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -126,7 +128,7 @@
       <recent name="co.com.sofka.stepdefinitions" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GetSoapRunnerTest">
+  <component name="RunManager" selected="JUnit.FormRunnerTest">
     <configuration name="AutomatizacionTestin [clearReports]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -147,30 +149,6 @@
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="FormRunnerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;co.com.sofka.runners.FormRunnerTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
     <configuration name="FormRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -232,11 +210,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GetSoapRunnerTest" />
-        <item itemvalue="JUnit.PostRunnerTestReqRes" />
         <item itemvalue="JUnit.FormRunnerTest" />
+        <item itemvalue="JUnit.PostRunnerTestReqRes" />
+        <item itemvalue="JUnit.GetSoapRunnerTest" />
         <item itemvalue="Gradle.AutomatizacionTestin [clearReports]" />
-        <item itemvalue="Gradle.FormRunnerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +233,23 @@
       <option name="presentableId" value="Default" />
       <updated>1705151063301</updated>
     </task>
+    <task id="LOCAL-00001" summary="Soap Correcto">
+      <option name="closed" value="true" />
+      <created>1705428122153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705428122153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tag RunnerTest">
+      <option name="closed" value="true" />
+      <created>1705433718460</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705433718460</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,5 +262,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Soap Correcto" />
+    <MESSAGE value="Tag RunnerTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tag RunnerTest" />
   </component>
 </project>
