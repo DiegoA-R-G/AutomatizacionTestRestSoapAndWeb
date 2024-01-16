@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="Tag RunnerTest">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca9454254bd70feaec92adc8d38b6f2d91a3967a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca9454254bd70feaec92adc8d38b6f2d91a3967a" afterDir="false" />
+    <list default="true" id="7bd48df7-c34f-4dac-9b70-ed426e966b03" name="Changes" comment="Quitar feature agregarfavoritos">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/driver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/agregar_favorito.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/FormRunnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/FormRunnerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/GetSoapRunnerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co.com.sofka/runners/PostRunnerTestReqRes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +60,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -101,7 +100,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/ProyectosJAVA/AutomatizacionTestin/src/test/resources/features",
+    "last_opened_file_path": "C:/ProyectosJAVA/AutomatizacionTestin/src/test/resources/driver",
     "onboarding.tips.debug.path": "C:/ProyectosJAVA/AutomatizacionTestin/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -111,11 +110,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ProyectosJAVA\AutomatizacionTestin\src\test\resources\driver" />
       <recent name="C:\ProyectosJAVA\AutomatizacionTestin\src\test\resources\features" />
       <recent name="C:\ProyectosJAVA\AutomatizacionTestin\src\test\resources" />
       <recent name="C:\ProyectosJAVA\AutomatizacionTestin" />
       <recent name="C:\ProyectosJAVA\AutomatizacionTestin\src\test\java" />
-      <recent name="C:\ProyectosJAVA\AutomatizacionTestin\src\main\java\co\com\newsofka" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="co.com.newsofka.tasks" />
@@ -249,7 +248,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705433718460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dejar solo un runner">
+      <option name="closed" value="true" />
+      <created>1705435476863</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705435476863</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Quitar feature agregarfavoritos">
+      <option name="closed" value="true" />
+      <created>1705435881988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705435881988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +281,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Soap Correcto" />
     <MESSAGE value="Tag RunnerTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tag RunnerTest" />
+    <MESSAGE value="Dejar solo un runner" />
+    <MESSAGE value="Quitar feature agregarfavoritos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quitar feature agregarfavoritos" />
   </component>
 </project>
