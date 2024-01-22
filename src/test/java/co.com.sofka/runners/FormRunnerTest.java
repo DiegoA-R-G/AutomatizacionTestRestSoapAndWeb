@@ -10,8 +10,7 @@ import org.junit.runner.RunWith;
         features ="src/test/resources/features/",
         glue = "co.com.sofka.stepdefinitions",
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        plugin = "pretty",
-        tags = "@VerFavoritos"
+        plugin = "pretty"
 )
 public class FormRunnerTest {
 }
