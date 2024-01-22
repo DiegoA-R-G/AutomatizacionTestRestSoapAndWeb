@@ -1,6 +1,7 @@
 Feature: Agregar una pelicula como favorito
   Yo como usuario quiero agregar una pelicula a mis favoritos
-  para ver mis favoritos
+  para ver mis favoritos a
+
 
   @VerFavoritos
   Scenario: Agregar pelicula favorita
